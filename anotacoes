@@ -1,0 +1,31 @@
+#Uma arquivo que termina com ".py " se chama modúlo!!!
+#"print()" significa imprimir ou seja: mostra na tela
+
+#*o interpretador python não inguinora as anotações comentadas com : """ , ''' (aspas)
+ #más inguinora as anotações comentadas com: # (cerquilha)
+
+ #* PYTHON em uma linguagem quem obtem uma tipagem dinâmica/forte 
+
+ #* números int e flout
+
+ #ex de int: 11, -23, 
+
+ #ex de flout: 1.2, 2.2
+
+#*números decimais são flout
+
+#* Números não décimais são int
+
+#int: números inteiros
+
+#flout: números flutuantes ou seja com pontos.
+
+# Quando separamos palavras com underline ( _ ) São chamadas de Snake case
+
+#valores primitivos: str(String),float(flutante),int(inteiros), bool( boolean)
+
+# O sinsal de adição além de somar números ( int e flout) tem a peculiaridade de concatenar plavras e números. Esse efeito se chama "CONCATENÇÃO"
+
+#Quando o interpretador detecta parentese " ( ) "
+#Sempre eles são executados de dentro par fora 
+# EX: print( bool((45 * 5))nesse caso o primeiro a ser executado é a multiplicação
